@@ -158,12 +158,3 @@ Contact
 - GitHub: https://github.com/ismailset
 - Email: mdismail.121510@gmail.com
 
-Acknowledgements
-- Built with an emphasis on minimal dependencies, accessibility, and terminal-first workflows.
-- Site publishing and static site guidance follow GitHub Pages best practices: https://docs.github.com/en/pages
-
-If you'd like, I can:
-- Create the README in your repository directly and open a PR,
-- Add badges (CI, coverage) and a GitHub Action to publish the docs/ site automatically,
-- Expand the README with API docs for internal modules or a CONTRIBUTING.md and CODE_OF_CONDUCT.
-
